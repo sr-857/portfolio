@@ -1,0 +1,1 @@
+import{u as r,n as c,f,g as p}from"./index-C3Pf1tnY.js";function l(t,a){const o=r(a()),e=()=>o.set(a());return e(),c(()=>{const n=()=>f.preRender(e,!1,!0),u=t.map(s=>s.on("change",n));return()=>{u.forEach(s=>s()),p(e)}}),o}export{l as u};
